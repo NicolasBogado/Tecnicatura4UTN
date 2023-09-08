@@ -1,0 +1,30 @@
+const productos = [
+    { 
+      id:1,
+      productName:"banana",
+      price:480,
+      quanty:1,
+      img:"/client/media/banana.jpg",
+    },
+    {
+      id:2,
+      producName:"Leche",
+      price:950,
+      quanty:1,
+      img:"/client/media/leche.png",
+    },
+    {
+      id:3,
+      producName:"Pollo",
+      price:750,
+      quanty:1,
+      img:"/client/media/pollo.jpg",
+    },
+    {
+      id:4,
+      producName:"Mayonesa",
+      price:510,
+      quanty:1,
+      img:"/client/media/mayonesa.jpg",
+    }
+];
